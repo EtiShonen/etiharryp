@@ -3,3 +3,8 @@ Wingardium Leviosa
 Expelliarmis
 Expecto Patronum
 Protego
+lumos
+accio
+alohomora
+obliviate
+reparo
