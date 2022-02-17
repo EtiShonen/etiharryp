@@ -1,10 +1,10 @@
-Harry Potter
-Ron Weasely
-Hermoine Granger
-Draco Malfoy
-Luna Lovegood
-Albus Dumbledore
-Severus Snape
-Professor Lupin
-Petunia dursley
-Argus Filch
+Harry Potter       gryfindoor house
+Ron Weasely        gryfindoor house
+Hermoine Granger   gryfindoor house
+Draco Malfoy       slytherin house
+Luna Lovegood      ravenclaw house
+Albus Dumbledore   gryfindoor house
+Severus Snape      slytherin house
+Professor Lupin    gryfindoor house
+Petunia dursley    muggle
+Argus Filch        squib
